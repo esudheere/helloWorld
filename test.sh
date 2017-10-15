@@ -2,4 +2,4 @@ echo
 echo "DONE"
 df -h
 uname -a
-ifconfig -a
+echo "Looks all Good"

@@ -6,3 +6,4 @@ uname -a
 echo "GIT integrated"
 echo "ALL SUCCESS"
 echo "POLL enabled"
+echo "SLACK Integrated"

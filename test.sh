@@ -1,4 +1,4 @@
 echo
 echo "DONE"
-lvs
+df -h
 

@@ -5,3 +5,4 @@ echo "Git Hub integration with Jenkins"
 uname -a
 echo "GIT integrated"
 echo "ALL SUCCESS"
+echo "POLL enabled"

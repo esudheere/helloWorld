@@ -1,3 +1,4 @@
 echo
 echo "DONE"
+lvs
 

@@ -8,13 +8,12 @@ pipeline{
         
         stage("Find df and IP"){
             
-            steps{
-            
+            steps{            
             sh(script:'df -h')
-            
             }
             steps{
                 sh(script:'ip addr')
+            }
         }
     
     }

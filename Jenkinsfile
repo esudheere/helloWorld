@@ -13,6 +13,8 @@ pipeline{
             sh(script:'df -h')
             
             }
+            steps{
+                sh(script:'ip addr')
         }
     
     }

@@ -6,7 +6,7 @@ pipeline{
     
     stages{
         
-        stage("Find df"){
+        stage("Find df and IP"){
             
             steps{
             
